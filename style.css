@@ -1,0 +1,17 @@
+body{
+    color:black;
+background:linear-gradient(olivedrab 0%, darkgoldenrod 100%);
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+#camera{
+    width:350px;
+    height:300px;
+    border:2px dashed black;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:rgb(4, 4, 4);
+    font-size: 20px;
+}
